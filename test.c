@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-  printf("欢迎开始25考研"）;
+  printf("欢迎开始考研");
   return 0;
 }
