@@ -1,6 +1,8 @@
 #include <stdio.h>
+
 int main()
 {
+    //数据类型的所占存储空间大小
     printf("char的大小是%zu个字节,%d比特位\n", sizeof(char), 8 * sizeof(char));
     printf("short的大小是%zu个字节,%d比特位\n", sizeof(short), 8 * sizeof(short));
     printf("int的大小是%zu个字节,%d比特位\n", sizeof(int), 8 * sizeof(int));
