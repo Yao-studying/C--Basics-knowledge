@@ -15,6 +15,6 @@ int main()
 
     // 输出
     printf("a,b相加为%d", sum);
-    
+
     return 0;
 }
