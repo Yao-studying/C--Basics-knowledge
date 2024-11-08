@@ -66,8 +66,8 @@ int main()
     printf("%zu\n", strlen("qwer t"));
     printf("%zu\n", strlen("qwert"));
     printf("%zu\n", strlen("c:\test\325\test.c"));
-    printf("c:\test\628\test.c");
-    printf("\a\n"); // 蜂鸣
+    printf("c:\test\628\test.c"); //   注意:\62是转义之后,就是转义字符了!,是一个字符!不是十进制的50,而是字符'2'
+    printf("\a\n");               // 蜂鸣
     printf("c:\\test\\628\\te abcd\bst.c");
 
     return 0;
