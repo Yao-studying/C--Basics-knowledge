@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/33177/Desktop/25-",
-      "program": "c:/Users/33177/Desktop/25-/build/Debug/outDebug",
+      "cwd": "e:/C语言0基础入门/C--basics-knowledge",
+      "program": "e:/C语言0基础入门/C--basics-knowledge/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
